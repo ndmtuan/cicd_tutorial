@@ -1,0 +1,152 @@
+# Recent settings file for Wireshark 2.6.10.
+#
+# This file is regenerated each time Wireshark is quit.
+# So be careful, if you want to make manual changes here.
+
+######## Recent capture files (latest last), cannot be altered through command line ########
+
+
+######## Recent capture filters (latest last), cannot be altered through command line ########
+
+
+######## Recent display filters (latest last), cannot be altered through command line ########
+
+recent.display_filter: http
+recent.display_filter: http.request.method == POST
+recent.display_filter: http.request.method 
+recent.display_filter: http.request.method == GET
+recent.display_filter: arp
+recent.display_filter: google
+recent.display_filter: ARP
+recent.display_filter: ar
+recent.display_filter: htt
+recent.display_filter: http.re.method == GET
+
+# Main window geometry.
+# Decimal numbers.
+gui.geometry_main_x: 45
+gui.geometry_main_y: 27
+gui.gtk.geometry_main_x: 20
+gui.gtk.geometry_main_y: 20
+gui.geometry_main_width: 1235
+gui.geometry_main_height: 905
+
+# Main window maximized.
+# TRUE or FALSE (case-insensitive).
+gui.geometry_main_maximized: TRUE
+
+# Statusbar left pane size.
+# Decimal number.
+gui.geometry_status_pane: 250
+
+# Statusbar middle pane size.
+# Decimal number.
+gui.geometry_status_pane_right: 250
+
+# Last used Configuration Profile.
+gui.last_used_profile: Default
+
+# WLAN statistics upper pane size.
+# Decimal number.
+gui.geometry_status_wlan_stats_pane: 200
+
+# Warn if running with elevated permissions (e.g. as root).
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_elevated: TRUE
+
+# Warn if npf.sys isn't loaded on Windows >= 6.0.
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_no_npf: TRUE
+
+# Geometry and maximized state of ip_hosts window.
+# Decimal integers.
+gui.geom.ip_hosts.x: 67
+gui.geom.ip_hosts.y: 27
+gui.geom.ip_hosts.width: 733
+gui.geom.ip_hosts.height: 545
+# TRUE or FALSE (case-insensitive).
+gui.geom.ip_hosts.maximized: FALSE
+
+# Geometry and maximized state of CaptureFilePropertiesDialog window.
+# Decimal integers.
+gui.geom.CaptureFilePropertiesDialog.x: 135
+gui.geom.CaptureFilePropertiesDialog.y: 27
+gui.geom.CaptureFilePropertiesDialog.width: 576
+gui.geom.CaptureFilePropertiesDialog.height: 543
+# TRUE or FALSE (case-insensitive).
+gui.geom.CaptureFilePropertiesDialog.maximized: FALSE
+
+# Geometry and maximized state of ExpertInfoDialog window.
+# Decimal integers.
+gui.geom.ExpertInfoDialog.x: 67
+gui.geom.ExpertInfoDialog.y: 27
+gui.geom.ExpertInfoDialog.width: 733
+gui.geom.ExpertInfoDialog.height: 545
+# TRUE or FALSE (case-insensitive).
+gui.geom.ExpertInfoDialog.maximized: FALSE
+
+# Geometry and maximized state of ResolvedAddressesDialog window.
+# Decimal integers.
+gui.geom.ResolvedAddressesDialog.x: 179
+gui.geom.ResolvedAddressesDialog.y: 27
+gui.geom.ResolvedAddressesDialog.width: 488
+gui.geom.ResolvedAddressesDialog.height: 543
+# TRUE or FALSE (case-insensitive).
+gui.geom.ResolvedAddressesDialog.maximized: FALSE
+
+# Geometry and maximized state of ProtocolHierarchyDialog window.
+# Decimal integers.
+gui.geom.ProtocolHierarchyDialog.x: 130
+gui.geom.ProtocolHierarchyDialog.y: 27
+gui.geom.ProtocolHierarchyDialog.width: 586
+gui.geom.ProtocolHierarchyDialog.height: 436
+# TRUE or FALSE (case-insensitive).
+gui.geom.ProtocolHierarchyDialog.maximized: FALSE
+
+# Geometry and maximized state of IOGraphDialog window.
+# Decimal integers.
+gui.geom.IOGraphDialog.x: 67
+gui.geom.IOGraphDialog.y: 27
+gui.geom.IOGraphDialog.width: 850
+gui.geom.IOGraphDialog.height: 640
+# TRUE or FALSE (case-insensitive).
+gui.geom.IOGraphDialog.maximized: FALSE
+
+# Geometry and maximized state of PacketDialog window.
+# Decimal integers.
+gui.geom.PacketDialog.x: 158
+gui.geom.PacketDialog.y: 61
+gui.geom.PacketDialog.width: 988
+gui.geom.PacketDialog.height: 724
+# TRUE or FALSE (case-insensitive).
+gui.geom.PacketDialog.maximized: FALSE
+
+# Geometry and maximized state of SequenceDialog window.
+# Decimal integers.
+gui.geom.SequenceDialog.x: 67
+gui.geom.SequenceDialog.y: 27
+gui.geom.SequenceDialog.width: 733
+gui.geom.SequenceDialog.height: 545
+# TRUE or FALSE (case-insensitive).
+gui.geom.SequenceDialog.maximized: FALSE
+
+# Geometry and maximized state of DisplayFilterExpressionDialog window.
+# Decimal integers.
+gui.geom.DisplayFilterExpressionDialog.x: 241
+gui.geom.DisplayFilterExpressionDialog.y: 27
+gui.geom.DisplayFilterExpressionDialog.width: 823
+gui.geom.DisplayFilterExpressionDialog.height: 903
+# TRUE or FALSE (case-insensitive).
+gui.geom.DisplayFilterExpressionDialog.maximized: FALSE
+
+# Custom colors.
+# List of custom colors selected in Qt color picker.
+gui.custom_colors: 
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff"
